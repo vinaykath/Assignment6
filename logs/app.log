@@ -1,0 +1,675 @@
+2024-06-23 16:29:25,932 - root - INFO - Logging configured.
+2024-06-23 16:29:25,932 - root - INFO - Environment variables loaded.
+2024-06-23 16:29:25,948 - root - ERROR - Error importing plugin greet: No module named 'app'
+2024-06-23 16:29:25,948 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-23 16:29:41,318 - root - INFO - Application exit.
+2024-06-23 16:29:41,318 - root - INFO - Application shutdown.
+2024-06-23 16:39:46,670 - root - INFO - Logging configured.
+2024-06-23 16:39:46,670 - root - INFO - Environment variables loaded.
+2024-06-23 16:39:46,686 - root - ERROR - Error importing plugin greet: No module named 'app'
+2024-06-23 16:39:46,686 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-23 16:47:01,650 - root - INFO - Application exit.
+2024-06-23 16:47:01,650 - root - INFO - Application shutdown.
+2024-06-23 17:04:51,884 - root - INFO - Logging configured.
+2024-06-23 17:04:51,884 - root - INFO - Environment variables loaded.
+2024-06-23 17:05:35,748 - root - INFO - Logging configured.
+2024-06-23 17:05:35,748 - root - INFO - Environment variables loaded.
+2024-06-23 17:06:06,365 - root - INFO - Logging configured.
+2024-06-23 17:06:06,365 - root - INFO - Environment variables loaded.
+2024-06-23 17:07:20,844 - root - INFO - Logging configured.
+2024-06-23 17:07:20,845 - root - INFO - Environment variables loaded.
+2024-06-23 17:07:20,845 - root - ERROR - Error importing plugin greet: No module named 'app'
+2024-06-23 17:07:20,845 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-23 17:07:20,845 - __main__ - INFO - Running in development environment
+2024-06-23 17:07:24,717 - __main__ - ERROR - ValueError: Command 'add' not found.
+2024-06-23 17:07:24,719 - root - INFO - Application shutdown.
+2024-06-23 17:07:35,615 - __main__ - ERROR - ValueError: Command 'subtract' not found.
+2024-06-23 17:07:35,630 - root - INFO - Application shutdown.
+2024-06-23 19:19:44,062 - root - INFO - Logging configured.
+2024-06-23 19:19:44,062 - root - INFO - Environment variables loaded.
+2024-06-23 19:19:44,062 - root - ERROR - Error importing plugin greet: No module named 'app'
+2024-06-23 19:19:44,062 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-23 19:19:44,062 - __main__ - INFO - Running in development environment
+2024-06-23 19:19:48,450 - __main__ - ERROR - ValueError: Command 'add' not found.
+2024-06-23 19:19:48,452 - root - INFO - Application shutdown.
+2024-06-23 19:20:13,973 - root - INFO - Logging configured.
+2024-06-23 19:20:13,973 - root - INFO - Environment variables loaded.
+2024-06-23 19:20:13,973 - root - ERROR - Error importing plugin greet: No module named 'app'
+2024-06-23 19:20:13,973 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-23 19:20:13,973 - __main__ - INFO - Running in development environment
+2024-06-23 19:20:15,604 - __main__ - ERROR - ValueError: Command 'add' not found.
+2024-06-23 19:20:15,604 - root - INFO - Application shutdown.
+2024-06-23 19:38:00,074 - root - INFO - Logging configured.
+2024-06-23 19:38:00,074 - root - INFO - Environment variables loaded.
+2024-06-23 19:38:00,089 - root - ERROR - Error importing plugin greet: No module named 'app'
+2024-06-23 19:38:00,089 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-23 19:38:00,090 - __main__ - INFO - Running in development environment
+2024-06-23 19:38:09,812 - __main__ - ERROR - ValueError: Command 'add' not found.
+2024-06-23 19:38:09,813 - root - INFO - Application shutdown.
+2024-06-23 19:39:23,604 - __main__ - ERROR - ValueError: Command 'add' not found.
+2024-06-23 19:39:23,604 - root - INFO - Application shutdown.
+2024-06-24 16:43:53,099 - root - INFO - Logging configured.
+2024-06-24 16:43:53,099 - root - INFO - Environment variables loaded.
+2024-06-24 16:43:53,107 - root - ERROR - Error importing plugin greet: No module named 'app'
+2024-06-24 16:43:53,107 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 16:43:53,107 - __main__ - INFO - Running in development environment
+2024-06-24 16:43:55,872 - __main__ - ERROR - ValueError: Command 'add' not found.
+2024-06-24 16:43:55,872 - root - INFO - Application shutdown.
+2024-06-24 16:50:29,094 - root - INFO - Logging configured.
+2024-06-24 16:50:29,105 - root - INFO - Environment variables loaded.
+2024-06-24 16:50:29,105 - root - ERROR - Error importing plugin greet: No module named 'app'
+2024-06-24 16:50:29,105 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 16:50:29,115 - __main__ - INFO - Running in development environment
+2024-06-24 16:50:32,316 - root - INFO - Addition
+2024-06-24 16:50:32,317 - __main__ - INFO - Executed command: add with arguments [1.0, 2.0]. Result: 3.0
+2024-06-24 16:50:32,319 - root - INFO - Application shutdown.
+2024-06-24 16:50:49,934 - __main__ - INFO - Executed command: multiply with arguments [2.0, 1.0]. Result: 2.0
+2024-06-24 16:50:49,936 - root - INFO - Application shutdown.
+2024-06-24 07:26:17,475 - root - INFO - Logging configured.
+2024-06-24 07:26:17,476 - root - INFO - Environment variables loaded.
+2024-06-24 07:26:17,480 - root - ERROR - Error importing plugin greet: No module named 'app'
+2024-06-24 07:26:17,480 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 07:26:17,481 - __main__ - INFO - Running in development environment
+2024-06-24 07:26:22,649 - root - INFO - Addition
+2024-06-24 07:26:22,650 - __main__ - INFO - Executed command: add with arguments [1.0, 2.0]. Result: 3.0
+2024-06-24 07:26:22,650 - root - INFO - Application shutdown.
+2024-06-24 07:30:44,530 - root - INFO - Logging configured.
+2024-06-24 07:30:44,530 - root - INFO - Environment variables loaded.
+2024-06-24 07:30:44,532 - root - INFO - Logging configured.
+2024-06-24 07:30:44,532 - root - INFO - Environment variables loaded.
+2024-06-24 07:30:44,554 - root - INFO - Logging configured.
+2024-06-24 07:30:44,554 - root - INFO - Environment variables loaded.
+2024-06-24 07:30:44,558 - root - INFO - Addition
+2024-06-24 07:36:18,665 - root - INFO - Logging configured.
+2024-06-24 07:36:18,666 - root - INFO - Environment variables loaded.
+2024-06-24 07:36:18,667 - root - INFO - Logging configured.
+2024-06-24 07:36:18,668 - root - INFO - Environment variables loaded.
+2024-06-24 07:36:18,690 - root - INFO - Logging configured.
+2024-06-24 07:36:18,690 - root - INFO - Environment variables loaded.
+2024-06-24 07:36:18,693 - root - INFO - Addition
+2024-06-24 07:38:45,935 - root - INFO - Logging configured.
+2024-06-24 07:38:45,935 - root - INFO - Environment variables loaded.
+2024-06-24 07:38:45,937 - root - INFO - Logging configured.
+2024-06-24 07:38:45,937 - root - INFO - Environment variables loaded.
+2024-06-24 07:38:45,937 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 07:38:45,937 - app - INFO - Running in development environment
+2024-06-24 07:38:45,961 - root - INFO - Logging configured.
+2024-06-24 07:38:45,961 - root - INFO - Environment variables loaded.
+2024-06-24 07:38:45,962 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 07:38:45,962 - app - INFO - Running in development environment
+2024-06-24 07:38:45,962 - app - ERROR - ValueError: Command 'unknown_command' not found.
+2024-06-24 07:38:45,962 - root - INFO - Application shutdown.
+2024-06-24 07:38:45,964 - root - INFO - Addition
+2024-06-24 07:45:17,925 - root - INFO - Logging configured.
+2024-06-24 07:45:17,925 - root - INFO - Environment variables loaded.
+2024-06-24 07:45:17,946 - root - INFO - Addition
+2024-06-24 07:46:28,225 - root - INFO - Logging configured.
+2024-06-24 07:46:28,226 - root - INFO - Environment variables loaded.
+2024-06-24 07:46:28,229 - root - INFO - Addition
+2024-06-24 07:49:48,155 - root - INFO - Logging configured.
+2024-06-24 07:49:48,155 - root - INFO - Environment variables loaded.
+2024-06-24 07:49:48,158 - root - INFO - Addition
+2024-06-24 07:51:36,677 - root - INFO - Logging configured.
+2024-06-24 07:51:36,677 - root - INFO - Environment variables loaded.
+2024-06-24 07:51:36,680 - root - INFO - Addition
+2024-06-24 07:51:57,258 - root - INFO - Logging configured.
+2024-06-24 07:51:57,259 - root - INFO - Environment variables loaded.
+2024-06-24 07:51:57,263 - root - INFO - Addition
+2024-06-24 07:53:13,882 - root - INFO - Logging configured.
+2024-06-24 07:53:13,883 - root - INFO - Environment variables loaded.
+2024-06-24 07:53:13,886 - root - INFO - Addition
+2024-06-24 07:54:20,810 - root - INFO - Logging configured.
+2024-06-24 07:54:20,810 - root - INFO - Environment variables loaded.
+2024-06-24 07:54:20,829 - root - INFO - Addition
+2024-06-24 07:54:58,831 - root - INFO - Logging configured.
+2024-06-24 07:54:58,831 - root - INFO - Environment variables loaded.
+2024-06-24 07:54:58,833 - root - INFO - Addition
+2024-06-24 07:55:02,808 - root - INFO - Logging configured.
+2024-06-24 07:55:02,808 - root - INFO - Environment variables loaded.
+2024-06-24 07:55:02,812 - root - INFO - Addition
+2024-06-24 07:57:21,762 - root - INFO - Logging configured.
+2024-06-24 07:57:21,762 - root - INFO - Environment variables loaded.
+2024-06-24 07:57:21,764 - root - INFO - Addition
+2024-06-24 07:57:26,531 - root - INFO - Logging configured.
+2024-06-24 07:57:26,531 - root - INFO - Environment variables loaded.
+2024-06-24 07:57:26,534 - root - INFO - Addition
+2024-06-24 07:58:31,624 - root - INFO - Logging configured.
+2024-06-24 07:58:31,625 - root - INFO - Environment variables loaded.
+2024-06-24 07:59:04,494 - root - INFO - Logging configured.
+2024-06-24 07:59:04,494 - root - INFO - Environment variables loaded.
+2024-06-24 07:59:50,379 - root - INFO - Logging configured.
+2024-06-24 07:59:50,379 - root - INFO - Environment variables loaded.
+2024-06-24 08:03:04,730 - root - INFO - Logging configured.
+2024-06-24 08:03:04,730 - root - INFO - Environment variables loaded.
+2024-06-24 08:03:04,732 - root - INFO - Addition
+2024-06-24 08:03:45,301 - root - INFO - Logging configured.
+2024-06-24 08:03:45,301 - root - INFO - Environment variables loaded.
+2024-06-24 08:03:45,302 - root - INFO - Addition
+2024-06-24 08:05:16,484 - root - INFO - Logging configured.
+2024-06-24 08:05:16,484 - root - INFO - Environment variables loaded.
+2024-06-24 08:08:23,540 - root - INFO - Logging configured.
+2024-06-24 08:08:23,541 - root - INFO - Environment variables loaded.
+2024-06-24 08:09:20,345 - root - INFO - Logging configured.
+2024-06-24 08:09:20,345 - root - INFO - Environment variables loaded.
+2024-06-24 08:09:20,346 - root - INFO - Addition
+2024-06-24 08:09:27,789 - root - INFO - Logging configured.
+2024-06-24 08:09:27,789 - root - INFO - Environment variables loaded.
+2024-06-24 08:09:27,791 - root - INFO - Addition
+2024-06-24 08:09:49,343 - root - INFO - Logging configured.
+2024-06-24 08:09:49,343 - root - INFO - Environment variables loaded.
+2024-06-24 08:09:49,345 - root - INFO - Addition
+2024-06-24 08:15:39,087 - root - INFO - Logging configured.
+2024-06-24 08:15:39,088 - root - INFO - Environment variables loaded.
+2024-06-24 08:15:39,089 - root - INFO - Addition
+2024-06-24 08:24:52,126 - root - INFO - Logging configured.
+2024-06-24 08:24:52,126 - root - INFO - Environment variables loaded.
+2024-06-24 08:24:52,129 - root - INFO - Addition
+2024-06-24 08:25:59,806 - root - INFO - Logging configured.
+2024-06-24 08:25:59,806 - root - INFO - Environment variables loaded.
+2024-06-24 08:25:59,809 - root - INFO - Addition
+2024-06-24 08:32:35,545 - root - INFO - Logging configured.
+2024-06-24 08:32:35,546 - root - INFO - Environment variables loaded.
+2024-06-24 08:32:35,549 - root - INFO - Addition
+2024-06-24 08:33:03,902 - root - INFO - Logging configured.
+2024-06-24 08:33:03,902 - root - INFO - Environment variables loaded.
+2024-06-24 08:33:03,906 - root - INFO - Addition
+2024-06-24 08:36:51,758 - root - INFO - Logging configured.
+2024-06-24 08:36:51,759 - root - INFO - Environment variables loaded.
+2024-06-24 08:36:51,762 - root - INFO - Addition
+2024-06-24 08:40:00,447 - root - INFO - Logging configured.
+2024-06-24 08:40:00,448 - root - INFO - Environment variables loaded.
+2024-06-24 08:44:10,302 - root - INFO - Logging configured.
+2024-06-24 08:44:10,303 - root - INFO - Environment variables loaded.
+2024-06-24 08:44:10,306 - root - INFO - Addition
+2024-06-24 08:48:57,067 - root - INFO - Logging configured.
+2024-06-24 08:48:57,067 - root - INFO - Environment variables loaded.
+2024-06-24 08:48:57,070 - root - INFO - Logging configured.
+2024-06-24 08:48:57,070 - root - INFO - Environment variables loaded.
+2024-06-24 08:48:57,090 - root - INFO - Logging configured.
+2024-06-24 08:48:57,090 - root - INFO - Environment variables loaded.
+2024-06-24 08:48:57,091 - root - INFO - Logging configured.
+2024-06-24 08:48:57,091 - root - INFO - Logging configured.
+2024-06-24 08:48:57,092 - root - INFO - Logging configured.
+2024-06-24 08:48:57,092 - root - INFO - Environment variables loaded.
+2024-06-24 08:48:57,093 - root - INFO - Environment variables loaded.
+2024-06-24 08:48:57,094 - root - INFO - Logging configured.
+2024-06-24 08:48:57,094 - root - INFO - Environment variables loaded.
+2024-06-24 08:48:57,094 - root - INFO - Logging configured.
+2024-06-24 08:48:57,094 - root - INFO - Environment variables loaded.
+2024-06-24 08:48:57,096 - root - INFO - Logging configured.
+2024-06-24 08:48:57,096 - root - INFO - Environment variables loaded.
+2024-06-24 08:48:57,098 - root - INFO - Logging configured.
+2024-06-24 08:48:57,098 - root - INFO - Environment variables loaded.
+2024-06-24 08:48:57,126 - root - INFO - Logging configured.
+2024-06-24 08:48:57,126 - root - INFO - Environment variables loaded.
+2024-06-24 08:48:57,149 - root - INFO - Logging configured.
+2024-06-24 08:48:57,149 - root - INFO - Environment variables loaded.
+2024-06-24 08:48:57,183 - root - INFO - Logging configured.
+2024-06-24 08:48:57,183 - root - INFO - Environment variables loaded.
+2024-06-24 08:48:57,206 - root - INFO - Addition
+2024-06-24 08:51:05,875 - root - INFO - Logging configured.
+2024-06-24 08:51:05,875 - root - INFO - Environment variables loaded.
+2024-06-24 08:51:05,878 - root - INFO - Logging configured.
+2024-06-24 08:51:05,879 - root - INFO - Environment variables loaded.
+2024-06-24 08:51:05,879 - root - INFO - Logging configured.
+2024-06-24 08:51:05,879 - root - INFO - Environment variables loaded.
+2024-06-24 08:51:05,880 - root - INFO - Logging configured.
+2024-06-24 08:51:05,880 - root - INFO - Logging configured.
+2024-06-24 08:51:05,881 - root - INFO - Logging configured.
+2024-06-24 08:51:05,881 - root - INFO - Environment variables loaded.
+2024-06-24 08:51:05,881 - root - INFO - Environment variables loaded.
+2024-06-24 08:51:05,882 - root - INFO - Logging configured.
+2024-06-24 08:51:05,882 - root - INFO - Environment variables loaded.
+2024-06-24 08:51:05,883 - root - INFO - Logging configured.
+2024-06-24 08:51:05,883 - root - INFO - Environment variables loaded.
+2024-06-24 08:51:05,884 - root - INFO - Logging configured.
+2024-06-24 08:51:05,884 - root - INFO - Environment variables loaded.
+2024-06-24 08:51:05,903 - root - INFO - Logging configured.
+2024-06-24 08:51:05,903 - root - INFO - Environment variables loaded.
+2024-06-24 08:51:05,904 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 08:51:05,905 - root - INFO - Logging configured.
+2024-06-24 08:51:05,905 - root - INFO - Environment variables loaded.
+2024-06-24 08:51:05,931 - root - INFO - Logging configured.
+2024-06-24 08:51:05,931 - root - INFO - Environment variables loaded.
+2024-06-24 08:51:05,955 - root - INFO - Logging configured.
+2024-06-24 08:51:05,955 - root - INFO - Environment variables loaded.
+2024-06-24 08:51:05,989 - root - INFO - Addition
+2024-06-24 08:52:26,724 - root - INFO - Logging configured.
+2024-06-24 08:52:26,725 - root - INFO - Environment variables loaded.
+2024-06-24 08:52:26,727 - root - INFO - Logging configured.
+2024-06-24 08:52:26,727 - root - INFO - Environment variables loaded.
+2024-06-24 08:52:26,728 - root - INFO - Logging configured.
+2024-06-24 08:52:26,728 - root - INFO - Environment variables loaded.
+2024-06-24 08:52:26,729 - root - INFO - Logging configured.
+2024-06-24 08:52:26,729 - root - INFO - Logging configured.
+2024-06-24 08:52:26,730 - root - INFO - Logging configured.
+2024-06-24 08:52:26,730 - root - INFO - Environment variables loaded.
+2024-06-24 08:52:26,730 - root - INFO - Environment variables loaded.
+2024-06-24 08:52:26,732 - root - INFO - Logging configured.
+2024-06-24 08:52:26,732 - root - INFO - Environment variables loaded.
+2024-06-24 08:52:26,733 - root - INFO - Logging configured.
+2024-06-24 08:52:26,733 - root - INFO - Environment variables loaded.
+2024-06-24 08:52:26,734 - root - INFO - Logging configured.
+2024-06-24 08:52:26,734 - root - INFO - Environment variables loaded.
+2024-06-24 08:52:26,753 - root - INFO - Logging configured.
+2024-06-24 08:52:26,753 - root - INFO - Environment variables loaded.
+2024-06-24 08:52:26,754 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 08:52:26,755 - root - INFO - Logging configured.
+2024-06-24 08:52:26,755 - root - INFO - Environment variables loaded.
+2024-06-24 08:52:26,756 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 08:52:26,756 - root - INFO - Application shutdown.
+2024-06-24 08:52:26,757 - root - INFO - Logging configured.
+2024-06-24 08:52:26,757 - root - INFO - Environment variables loaded.
+2024-06-24 08:52:26,757 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 08:52:26,757 - app - INFO - Running in development environment
+2024-06-24 08:52:26,778 - root - INFO - Logging configured.
+2024-06-24 08:52:26,778 - root - INFO - Environment variables loaded.
+2024-06-24 08:52:26,779 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 08:52:26,779 - app - INFO - Running in development environment
+2024-06-24 08:52:26,779 - root - INFO - Application shutdown.
+2024-06-24 08:52:26,780 - root - INFO - Addition
+2024-06-24 08:53:06,490 - root - INFO - Logging configured.
+2024-06-24 08:53:06,490 - root - INFO - Environment variables loaded.
+2024-06-24 08:53:06,493 - root - INFO - Logging configured.
+2024-06-24 08:53:06,493 - root - INFO - Environment variables loaded.
+2024-06-24 08:53:06,494 - root - INFO - Logging configured.
+2024-06-24 08:53:06,494 - root - INFO - Environment variables loaded.
+2024-06-24 08:53:06,494 - root - INFO - Logging configured.
+2024-06-24 08:53:06,495 - root - INFO - Logging configured.
+2024-06-24 08:53:06,496 - root - INFO - Logging configured.
+2024-06-24 08:53:06,496 - root - INFO - Environment variables loaded.
+2024-06-24 08:53:06,496 - root - INFO - Environment variables loaded.
+2024-06-24 08:53:06,497 - root - INFO - Logging configured.
+2024-06-24 08:53:06,497 - root - INFO - Environment variables loaded.
+2024-06-24 08:53:06,498 - root - INFO - Logging configured.
+2024-06-24 08:53:06,498 - root - INFO - Environment variables loaded.
+2024-06-24 08:53:06,500 - root - INFO - Logging configured.
+2024-06-24 08:53:06,500 - root - INFO - Environment variables loaded.
+2024-06-24 08:53:06,541 - root - INFO - Logging configured.
+2024-06-24 08:53:06,542 - root - INFO - Environment variables loaded.
+2024-06-24 08:53:06,542 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 08:53:06,543 - root - INFO - Logging configured.
+2024-06-24 08:53:06,543 - root - INFO - Environment variables loaded.
+2024-06-24 08:53:06,544 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 08:53:06,544 - root - INFO - Application shutdown.
+2024-06-24 08:53:06,545 - root - INFO - Logging configured.
+2024-06-24 08:53:06,545 - root - INFO - Environment variables loaded.
+2024-06-24 08:53:06,546 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 08:53:06,546 - app - INFO - Running in development environment
+2024-06-24 08:53:06,564 - root - INFO - Logging configured.
+2024-06-24 08:53:06,564 - root - INFO - Environment variables loaded.
+2024-06-24 08:53:06,565 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 08:53:06,565 - app - INFO - Running in development environment
+2024-06-24 08:53:06,565 - root - INFO - Application shutdown.
+2024-06-24 08:53:06,566 - root - INFO - Addition
+2024-06-24 08:53:59,436 - root - INFO - Logging configured.
+2024-06-24 08:53:59,436 - root - INFO - Environment variables loaded.
+2024-06-24 08:53:59,439 - root - INFO - Logging configured.
+2024-06-24 08:53:59,439 - root - INFO - Environment variables loaded.
+2024-06-24 08:53:59,439 - root - INFO - Logging configured.
+2024-06-24 08:53:59,440 - root - INFO - Environment variables loaded.
+2024-06-24 08:53:59,440 - root - INFO - Logging configured.
+2024-06-24 08:53:59,440 - root - INFO - Logging configured.
+2024-06-24 08:53:59,441 - root - INFO - Logging configured.
+2024-06-24 08:53:59,441 - root - INFO - Environment variables loaded.
+2024-06-24 08:53:59,441 - root - INFO - Environment variables loaded.
+2024-06-24 08:53:59,442 - root - INFO - Logging configured.
+2024-06-24 08:53:59,442 - root - INFO - Environment variables loaded.
+2024-06-24 08:53:59,443 - root - INFO - Logging configured.
+2024-06-24 08:53:59,443 - root - INFO - Environment variables loaded.
+2024-06-24 08:53:59,445 - root - INFO - Logging configured.
+2024-06-24 08:53:59,445 - root - INFO - Environment variables loaded.
+2024-06-24 08:53:59,489 - root - INFO - Logging configured.
+2024-06-24 08:53:59,489 - root - INFO - Environment variables loaded.
+2024-06-24 08:53:59,490 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 08:53:59,491 - root - INFO - Logging configured.
+2024-06-24 08:53:59,491 - root - INFO - Environment variables loaded.
+2024-06-24 08:53:59,491 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 08:53:59,492 - root - INFO - Application shutdown.
+2024-06-24 08:53:59,492 - root - INFO - Logging configured.
+2024-06-24 08:53:59,492 - root - INFO - Environment variables loaded.
+2024-06-24 08:53:59,493 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 08:53:59,493 - app - INFO - Running in development environment
+2024-06-24 08:53:59,511 - root - INFO - Logging configured.
+2024-06-24 08:53:59,511 - root - INFO - Environment variables loaded.
+2024-06-24 08:53:59,512 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 08:53:59,512 - app - INFO - Running in development environment
+2024-06-24 08:53:59,512 - root - INFO - Application shutdown.
+2024-06-24 08:53:59,512 - root - INFO - Addition
+2024-06-24 09:06:53,023 - root - INFO - Logging configured.
+2024-06-24 09:06:53,023 - root - INFO - Environment variables loaded.
+2024-06-24 09:06:53,026 - root - INFO - Logging configured.
+2024-06-24 09:06:53,026 - root - INFO - Environment variables loaded.
+2024-06-24 09:06:53,026 - root - INFO - Logging configured.
+2024-06-24 09:06:53,027 - root - INFO - Environment variables loaded.
+2024-06-24 09:06:53,027 - root - INFO - Logging configured.
+2024-06-24 09:06:53,027 - root - INFO - Logging configured.
+2024-06-24 09:06:53,028 - root - INFO - Logging configured.
+2024-06-24 09:06:53,028 - root - INFO - Environment variables loaded.
+2024-06-24 09:06:53,028 - root - INFO - Environment variables loaded.
+2024-06-24 09:06:53,029 - root - INFO - Logging configured.
+2024-06-24 09:06:53,029 - root - INFO - Environment variables loaded.
+2024-06-24 09:06:53,030 - root - INFO - Logging configured.
+2024-06-24 09:06:53,030 - root - INFO - Environment variables loaded.
+2024-06-24 09:06:53,033 - root - INFO - Logging configured.
+2024-06-24 09:06:53,033 - root - INFO - Environment variables loaded.
+2024-06-24 09:06:53,034 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 09:06:53,035 - root - INFO - Logging configured.
+2024-06-24 09:06:53,035 - root - INFO - Environment variables loaded.
+2024-06-24 09:06:53,036 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 09:06:53,036 - root - INFO - Application shutdown.
+2024-06-24 09:06:53,036 - root - INFO - Logging configured.
+2024-06-24 09:06:53,037 - root - INFO - Environment variables loaded.
+2024-06-24 09:06:53,073 - root - INFO - Logging configured.
+2024-06-24 09:06:53,074 - root - INFO - Environment variables loaded.
+2024-06-24 09:06:53,075 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 09:06:53,075 - app - INFO - Running in development environment
+2024-06-24 09:06:53,075 - root - INFO - Application shutdown.
+2024-06-24 09:06:53,075 - root - INFO - Addition
+2024-06-24 09:07:12,285 - root - INFO - Logging configured.
+2024-06-24 09:07:12,286 - root - INFO - Environment variables loaded.
+2024-06-24 09:07:12,288 - root - INFO - Logging configured.
+2024-06-24 09:07:12,288 - root - INFO - Environment variables loaded.
+2024-06-24 09:07:12,289 - root - INFO - Logging configured.
+2024-06-24 09:07:12,289 - root - INFO - Environment variables loaded.
+2024-06-24 09:07:12,290 - root - INFO - Logging configured.
+2024-06-24 09:07:12,290 - root - INFO - Logging configured.
+2024-06-24 09:07:12,291 - root - INFO - Logging configured.
+2024-06-24 09:07:12,291 - root - INFO - Environment variables loaded.
+2024-06-24 09:07:12,291 - root - INFO - Environment variables loaded.
+2024-06-24 09:07:12,292 - root - INFO - Logging configured.
+2024-06-24 09:07:12,292 - root - INFO - Environment variables loaded.
+2024-06-24 09:07:12,293 - root - INFO - Logging configured.
+2024-06-24 09:07:12,293 - root - INFO - Environment variables loaded.
+2024-06-24 09:07:12,295 - root - INFO - Logging configured.
+2024-06-24 09:07:12,295 - root - INFO - Environment variables loaded.
+2024-06-24 09:07:12,295 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 09:07:12,297 - root - INFO - Logging configured.
+2024-06-24 09:07:12,297 - root - INFO - Environment variables loaded.
+2024-06-24 09:07:12,298 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 09:07:12,298 - root - INFO - Application shutdown.
+2024-06-24 09:07:12,299 - root - INFO - Logging configured.
+2024-06-24 09:07:12,299 - root - INFO - Environment variables loaded.
+2024-06-24 09:07:12,336 - root - INFO - Logging configured.
+2024-06-24 09:07:12,336 - root - INFO - Environment variables loaded.
+2024-06-24 09:07:12,337 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 09:07:12,337 - app - INFO - Running in development environment
+2024-06-24 09:07:12,337 - root - INFO - Application shutdown.
+2024-06-24 09:07:12,337 - root - INFO - Addition
+2024-06-24 09:07:57,114 - root - INFO - Logging configured.
+2024-06-24 09:07:57,114 - root - INFO - Environment variables loaded.
+2024-06-24 09:07:57,116 - root - INFO - Logging configured.
+2024-06-24 09:07:57,117 - root - INFO - Environment variables loaded.
+2024-06-24 09:07:57,117 - root - INFO - Logging configured.
+2024-06-24 09:07:57,118 - root - INFO - Environment variables loaded.
+2024-06-24 09:07:57,118 - root - INFO - Logging configured.
+2024-06-24 09:07:57,118 - root - INFO - Logging configured.
+2024-06-24 09:07:57,119 - root - INFO - Logging configured.
+2024-06-24 09:07:57,119 - root - INFO - Environment variables loaded.
+2024-06-24 09:07:57,119 - root - INFO - Environment variables loaded.
+2024-06-24 09:07:57,120 - root - INFO - Logging configured.
+2024-06-24 09:07:57,120 - root - INFO - Environment variables loaded.
+2024-06-24 09:07:57,121 - root - INFO - Logging configured.
+2024-06-24 09:07:57,121 - root - INFO - Environment variables loaded.
+2024-06-24 09:07:57,123 - root - INFO - Logging configured.
+2024-06-24 09:07:57,123 - root - INFO - Environment variables loaded.
+2024-06-24 09:07:57,123 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 09:07:57,124 - root - INFO - Logging configured.
+2024-06-24 09:07:57,124 - root - INFO - Environment variables loaded.
+2024-06-24 09:07:57,125 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 09:07:57,125 - root - INFO - Application shutdown.
+2024-06-24 09:07:57,126 - root - INFO - Logging configured.
+2024-06-24 09:07:57,126 - root - INFO - Environment variables loaded.
+2024-06-24 09:07:57,127 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 09:07:57,127 - app - INFO - Running in development environment
+2024-06-24 09:07:57,127 - root - INFO - Application shutdown.
+2024-06-24 09:07:57,128 - root - INFO - Addition
+2024-06-24 09:12:23,031 - root - INFO - Logging configured.
+2024-06-24 09:12:23,031 - root - INFO - Environment variables loaded.
+2024-06-24 09:12:23,033 - root - INFO - Logging configured.
+2024-06-24 09:12:23,033 - root - INFO - Environment variables loaded.
+2024-06-24 09:12:23,034 - root - INFO - Logging configured.
+2024-06-24 09:12:23,034 - root - INFO - Environment variables loaded.
+2024-06-24 09:12:23,035 - root - INFO - Logging configured.
+2024-06-24 09:12:23,035 - root - INFO - Logging configured.
+2024-06-24 09:12:23,036 - root - INFO - Logging configured.
+2024-06-24 09:12:23,036 - root - INFO - Environment variables loaded.
+2024-06-24 09:12:23,036 - root - INFO - Environment variables loaded.
+2024-06-24 09:12:23,037 - root - INFO - Logging configured.
+2024-06-24 09:12:23,037 - root - INFO - Environment variables loaded.
+2024-06-24 09:12:23,038 - root - INFO - Logging configured.
+2024-06-24 09:12:23,038 - root - INFO - Environment variables loaded.
+2024-06-24 09:12:23,040 - root - INFO - Logging configured.
+2024-06-24 09:12:23,040 - root - INFO - Environment variables loaded.
+2024-06-24 09:12:23,041 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 09:12:23,042 - root - INFO - Logging configured.
+2024-06-24 09:12:23,043 - root - INFO - Environment variables loaded.
+2024-06-24 09:12:23,043 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 09:12:23,043 - root - INFO - Application shutdown.
+2024-06-24 09:12:23,044 - root - INFO - Logging configured.
+2024-06-24 09:12:23,044 - root - INFO - Environment variables loaded.
+2024-06-24 09:12:23,045 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 09:12:23,045 - app - INFO - Running in development environment
+2024-06-24 09:12:23,045 - root - INFO - Application shutdown.
+2024-06-24 09:12:23,046 - root - INFO - Addition
+2024-06-24 09:12:29,567 - root - INFO - Logging configured.
+2024-06-24 09:12:29,567 - root - INFO - Environment variables loaded.
+2024-06-24 09:12:29,569 - root - INFO - Logging configured.
+2024-06-24 09:12:29,569 - root - INFO - Environment variables loaded.
+2024-06-24 09:12:29,570 - root - INFO - Logging configured.
+2024-06-24 09:12:29,570 - root - INFO - Environment variables loaded.
+2024-06-24 09:12:29,571 - root - INFO - Logging configured.
+2024-06-24 09:12:29,571 - root - INFO - Logging configured.
+2024-06-24 09:12:29,572 - root - INFO - Logging configured.
+2024-06-24 09:12:29,572 - root - INFO - Environment variables loaded.
+2024-06-24 09:12:29,572 - root - INFO - Environment variables loaded.
+2024-06-24 09:12:29,573 - root - INFO - Logging configured.
+2024-06-24 09:12:29,573 - root - INFO - Environment variables loaded.
+2024-06-24 09:12:29,575 - root - INFO - Logging configured.
+2024-06-24 09:12:29,575 - root - INFO - Environment variables loaded.
+2024-06-24 09:12:29,576 - root - INFO - Logging configured.
+2024-06-24 09:12:29,576 - root - INFO - Environment variables loaded.
+2024-06-24 09:12:29,577 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 09:12:29,578 - root - INFO - Logging configured.
+2024-06-24 09:12:29,578 - root - INFO - Environment variables loaded.
+2024-06-24 09:12:29,579 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 09:12:29,579 - root - INFO - Application shutdown.
+2024-06-24 09:12:29,580 - root - INFO - Logging configured.
+2024-06-24 09:12:29,581 - root - INFO - Environment variables loaded.
+2024-06-24 09:12:29,581 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 09:12:29,581 - app - INFO - Running in development environment
+2024-06-24 09:12:29,581 - root - INFO - Application shutdown.
+2024-06-24 09:12:29,582 - root - INFO - Addition
+2024-06-24 09:13:30,356 - root - INFO - Logging configured.
+2024-06-24 09:13:30,357 - root - INFO - Environment variables loaded.
+2024-06-24 09:13:30,359 - root - INFO - Logging configured.
+2024-06-24 09:13:30,359 - root - INFO - Environment variables loaded.
+2024-06-24 09:13:30,360 - root - INFO - Logging configured.
+2024-06-24 09:13:30,360 - root - INFO - Environment variables loaded.
+2024-06-24 09:13:30,361 - root - INFO - Logging configured.
+2024-06-24 09:13:30,361 - root - INFO - Logging configured.
+2024-06-24 09:13:30,367 - root - INFO - Logging configured.
+2024-06-24 09:13:30,367 - root - INFO - Environment variables loaded.
+2024-06-24 09:13:30,368 - root - INFO - Environment variables loaded.
+2024-06-24 09:13:30,369 - root - INFO - Logging configured.
+2024-06-24 09:13:30,369 - root - INFO - Environment variables loaded.
+2024-06-24 09:13:30,370 - root - INFO - Logging configured.
+2024-06-24 09:13:30,370 - root - INFO - Environment variables loaded.
+2024-06-24 09:13:30,371 - root - INFO - Logging configured.
+2024-06-24 09:13:30,371 - root - INFO - Environment variables loaded.
+2024-06-24 09:13:30,372 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 09:13:30,373 - root - INFO - Logging configured.
+2024-06-24 09:13:30,373 - root - INFO - Environment variables loaded.
+2024-06-24 09:13:30,374 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 09:13:30,375 - root - INFO - Application shutdown.
+2024-06-24 09:13:30,375 - root - INFO - Logging configured.
+2024-06-24 09:13:30,376 - root - INFO - Environment variables loaded.
+2024-06-24 09:13:30,376 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 09:13:30,376 - app - INFO - Running in development environment
+2024-06-24 09:13:30,376 - root - INFO - Application shutdown.
+2024-06-24 09:13:30,377 - root - INFO - Addition
+2024-06-24 09:14:03,863 - root - INFO - Logging configured.
+2024-06-24 09:14:03,863 - root - INFO - Environment variables loaded.
+2024-06-24 09:14:03,866 - root - INFO - Logging configured.
+2024-06-24 09:14:03,866 - root - INFO - Environment variables loaded.
+2024-06-24 09:14:03,867 - root - INFO - Logging configured.
+2024-06-24 09:14:03,867 - root - INFO - Environment variables loaded.
+2024-06-24 09:14:03,867 - root - INFO - Logging configured.
+2024-06-24 09:14:03,868 - root - INFO - Logging configured.
+2024-06-24 09:14:03,868 - root - INFO - Logging configured.
+2024-06-24 09:14:03,868 - root - INFO - Environment variables loaded.
+2024-06-24 09:14:03,869 - root - INFO - Environment variables loaded.
+2024-06-24 09:14:03,869 - root - INFO - Logging configured.
+2024-06-24 09:14:03,870 - root - INFO - Environment variables loaded.
+2024-06-24 09:14:03,870 - root - INFO - Logging configured.
+2024-06-24 09:14:03,871 - root - INFO - Environment variables loaded.
+2024-06-24 09:14:03,872 - root - INFO - Logging configured.
+2024-06-24 09:14:03,873 - root - INFO - Environment variables loaded.
+2024-06-24 09:14:03,874 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 09:14:03,875 - root - INFO - Logging configured.
+2024-06-24 09:14:03,875 - root - INFO - Environment variables loaded.
+2024-06-24 09:14:03,876 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 09:14:03,876 - root - INFO - Application shutdown.
+2024-06-24 09:14:03,877 - root - INFO - Logging configured.
+2024-06-24 09:14:03,877 - root - INFO - Environment variables loaded.
+2024-06-24 09:14:03,878 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 09:14:03,878 - app - INFO - Running in development environment
+2024-06-24 09:14:03,878 - root - INFO - Application shutdown.
+2024-06-24 09:14:03,879 - root - INFO - Addition
+2024-06-24 09:14:29,303 - root - INFO - Logging configured.
+2024-06-24 09:14:29,303 - root - INFO - Environment variables loaded.
+2024-06-24 09:14:29,305 - root - INFO - Logging configured.
+2024-06-24 09:14:29,305 - root - INFO - Environment variables loaded.
+2024-06-24 09:14:29,306 - root - INFO - Logging configured.
+2024-06-24 09:14:29,306 - root - INFO - Environment variables loaded.
+2024-06-24 09:14:29,307 - root - INFO - Logging configured.
+2024-06-24 09:14:29,307 - root - INFO - Logging configured.
+2024-06-24 09:14:29,308 - root - INFO - Logging configured.
+2024-06-24 09:14:29,308 - root - INFO - Environment variables loaded.
+2024-06-24 09:14:29,308 - root - INFO - Environment variables loaded.
+2024-06-24 09:14:29,309 - root - INFO - Logging configured.
+2024-06-24 09:14:29,310 - root - INFO - Environment variables loaded.
+2024-06-24 09:14:29,310 - root - INFO - Logging configured.
+2024-06-24 09:14:29,311 - root - INFO - Environment variables loaded.
+2024-06-24 09:14:29,312 - root - INFO - Logging configured.
+2024-06-24 09:14:29,312 - root - INFO - Environment variables loaded.
+2024-06-24 09:14:29,313 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 09:14:29,314 - root - INFO - Logging configured.
+2024-06-24 09:14:29,314 - root - INFO - Environment variables loaded.
+2024-06-24 09:14:29,315 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 09:14:29,315 - root - INFO - Application shutdown.
+2024-06-24 09:14:29,316 - root - INFO - Logging configured.
+2024-06-24 09:14:29,316 - root - INFO - Environment variables loaded.
+2024-06-24 09:14:29,316 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 09:14:29,316 - app - INFO - Running in development environment
+2024-06-24 09:14:29,317 - root - INFO - Application shutdown.
+2024-06-24 09:14:29,317 - root - INFO - Addition
+2024-06-24 09:15:45,593 - root - INFO - Logging configured.
+2024-06-24 09:15:45,594 - root - INFO - Environment variables loaded.
+2024-06-24 09:15:45,595 - root - INFO - Logging configured.
+2024-06-24 09:15:45,596 - root - INFO - Environment variables loaded.
+2024-06-24 09:15:45,596 - root - INFO - Logging configured.
+2024-06-24 09:15:45,596 - root - INFO - Environment variables loaded.
+2024-06-24 09:15:45,597 - root - INFO - Logging configured.
+2024-06-24 09:15:45,597 - root - INFO - Logging configured.
+2024-06-24 09:15:45,598 - root - INFO - Logging configured.
+2024-06-24 09:15:45,598 - root - INFO - Environment variables loaded.
+2024-06-24 09:15:45,598 - root - INFO - Environment variables loaded.
+2024-06-24 09:15:45,599 - root - INFO - Logging configured.
+2024-06-24 09:15:45,599 - root - INFO - Environment variables loaded.
+2024-06-24 09:15:45,600 - root - INFO - Logging configured.
+2024-06-24 09:15:45,600 - root - INFO - Environment variables loaded.
+2024-06-24 09:15:45,601 - root - INFO - Logging configured.
+2024-06-24 09:15:45,601 - root - INFO - Environment variables loaded.
+2024-06-24 09:15:45,602 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 09:15:45,603 - root - INFO - Logging configured.
+2024-06-24 09:15:45,603 - root - INFO - Environment variables loaded.
+2024-06-24 09:15:45,603 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 09:15:45,604 - root - INFO - Application shutdown.
+2024-06-24 09:15:45,604 - root - INFO - Logging configured.
+2024-06-24 09:15:45,604 - root - INFO - Environment variables loaded.
+2024-06-24 09:15:45,605 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 09:15:45,605 - app - INFO - Running in development environment
+2024-06-24 09:15:45,605 - root - INFO - Application shutdown.
+2024-06-24 09:15:45,606 - root - INFO - Addition
+2024-06-24 09:17:19,411 - root - INFO - Logging configured.
+2024-06-24 09:17:19,412 - root - INFO - Environment variables loaded.
+2024-06-24 09:17:19,417 - root - INFO - Addition
+2024-06-24 09:17:59,114 - root - INFO - Logging configured.
+2024-06-24 09:17:59,115 - root - INFO - Environment variables loaded.
+2024-06-24 09:17:59,116 - root - INFO - Logging configured.
+2024-06-24 09:17:59,116 - root - INFO - Environment variables loaded.
+2024-06-24 09:17:59,119 - root - INFO - Logging configured.
+2024-06-24 09:17:59,119 - root - INFO - Logging configured.
+2024-06-24 09:17:59,120 - root - INFO - Logging configured.
+2024-06-24 09:17:59,120 - root - INFO - Environment variables loaded.
+2024-06-24 09:17:59,121 - root - INFO - Environment variables loaded.
+2024-06-24 09:17:59,122 - root - INFO - Logging configured.
+2024-06-24 09:17:59,122 - root - INFO - Environment variables loaded.
+2024-06-24 09:17:59,125 - root - INFO - Logging configured.
+2024-06-24 09:17:59,125 - root - INFO - Environment variables loaded.
+2024-06-24 09:17:59,127 - root - INFO - Logging configured.
+2024-06-24 09:17:59,127 - root - INFO - Environment variables loaded.
+2024-06-24 09:17:59,128 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 09:17:59,129 - root - INFO - Logging configured.
+2024-06-24 09:17:59,129 - root - INFO - Environment variables loaded.
+2024-06-24 09:17:59,131 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 09:17:59,131 - root - INFO - Application shutdown.
+2024-06-24 09:17:59,167 - root - INFO - Logging configured.
+2024-06-24 09:17:59,167 - root - INFO - Environment variables loaded.
+2024-06-24 09:17:59,168 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 09:17:59,168 - app - INFO - Running in development environment
+2024-06-24 09:17:59,168 - root - INFO - Application shutdown.
+2024-06-24 09:17:59,185 - root - INFO - Addition
+2024-06-24 09:18:22,810 - root - INFO - Logging configured.
+2024-06-24 09:18:22,810 - root - INFO - Environment variables loaded.
+2024-06-24 09:18:22,811 - root - INFO - Logging configured.
+2024-06-24 09:18:22,811 - root - INFO - Environment variables loaded.
+2024-06-24 09:18:22,812 - root - INFO - Logging configured.
+2024-06-24 09:18:22,812 - root - INFO - Logging configured.
+2024-06-24 09:18:22,813 - root - INFO - Logging configured.
+2024-06-24 09:18:22,813 - root - INFO - Environment variables loaded.
+2024-06-24 09:18:22,814 - root - INFO - Environment variables loaded.
+2024-06-24 09:18:22,815 - root - INFO - Logging configured.
+2024-06-24 09:18:22,815 - root - INFO - Environment variables loaded.
+2024-06-24 09:18:22,816 - root - INFO - Logging configured.
+2024-06-24 09:18:22,816 - root - INFO - Environment variables loaded.
+2024-06-24 09:18:22,817 - root - INFO - Logging configured.
+2024-06-24 09:18:22,817 - root - INFO - Environment variables loaded.
+2024-06-24 09:18:22,819 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 09:18:22,820 - root - INFO - Logging configured.
+2024-06-24 09:18:22,820 - root - INFO - Environment variables loaded.
+2024-06-24 09:18:22,821 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 09:18:22,821 - root - INFO - Application shutdown.
+2024-06-24 09:18:22,856 - root - INFO - Logging configured.
+2024-06-24 09:18:22,856 - root - INFO - Environment variables loaded.
+2024-06-24 09:18:22,857 - root - INFO - Application started. Type 'exit' to exit.
+2024-06-24 09:18:22,857 - app - INFO - Running in development environment
+2024-06-24 09:18:22,857 - root - INFO - Application shutdown.
+2024-06-24 09:18:22,874 - root - INFO - Addition
+2024-06-24 09:21:56,937 - root - INFO - Logging configured.
+2024-06-24 09:21:56,937 - root - INFO - Environment variables loaded.
+2024-06-24 09:21:56,961 - root - INFO - Addition
+2024-06-24 09:23:18,914 - root - INFO - Logging configured.
+2024-06-24 09:23:18,914 - root - INFO - Environment variables loaded.
+2024-06-24 09:23:18,938 - root - INFO - Addition
+2024-06-24 09:24:26,616 - root - INFO - Logging configured.
+2024-06-24 09:24:26,617 - root - INFO - Environment variables loaded.
+2024-06-24 09:25:32,174 - root - INFO - Logging configured.
+2024-06-24 09:25:32,174 - root - INFO - Environment variables loaded.
+2024-06-24 09:25:32,200 - root - INFO - Addition
+2024-06-24 09:25:39,527 - root - INFO - Logging configured.
+2024-06-24 09:25:39,528 - root - INFO - Environment variables loaded.
+2024-06-24 09:25:39,553 - root - INFO - Addition
+2024-06-24 09:26:51,698 - root - INFO - Logging configured.
+2024-06-24 09:26:51,698 - root - INFO - Environment variables loaded.
+2024-06-24 09:26:51,722 - root - INFO - Addition
+2024-06-24 09:29:17,638 - root - INFO - Logging configured.
+2024-06-24 09:29:17,639 - root - INFO - Environment variables loaded.
+2024-06-24 09:29:17,640 - root - INFO - Addition
+2024-06-24 09:29:23,552 - root - INFO - Logging configured.
+2024-06-24 09:29:23,552 - root - INFO - Environment variables loaded.
+2024-06-24 09:29:23,554 - root - INFO - Addition
+2024-06-24 09:29:34,766 - root - INFO - Logging configured.
+2024-06-24 09:29:34,766 - root - INFO - Environment variables loaded.
+2024-06-24 09:29:34,768 - root - INFO - Addition
